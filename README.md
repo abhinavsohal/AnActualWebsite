@@ -3,7 +3,7 @@
 
 Are you looking forward to buy a monitor but don't know if it will fit your needs? If so, you are in the right place, as this website will have a quick guide on the specifications one would look for on a monitor. These specifications include refresh rates, response times, display panel, frame syncing methods, along with resolution and size. 
 
-![Monitors](download (1).jpg)
+![Picture of Monitors](download 1.jpg)
 
 ## Resolutions, Panels, and Sizes of a Monitor
 
@@ -15,7 +15,7 @@ As for the size of a monitor, it is completely preference, but when it comes to 
 
 Monitors have three main display panels, they are named IPS, VA, and TN panels. In most cases it is worth shelling out a bit of extra cash for an IPS panel as they have the best color accuracy out of the three along with the best viewing angles. The contrast of VA panels is the best, and they have moderate viewing angles. The TN panel is the least worth as they have the worst viewing angles and superiority to the other panels. When a monitor has bad viewing angles, it means that they had large shifts in colors depending on where they are seen from. Looking at some panels from the side would cause the screen to seem yellow ruining the color accuracy. To gamers who sit in front of displays, TN or VA panels may be acceptable, but to those who need color accuracy, IPS panels are the best to use. 
 
-![Monitor Sizes](download (2).jpg)
+![Monitor Sizes Examples](download 2.jpg)
 
 ### Refresh Rates, Response Times, and Frame Syncing of Monitors
 
